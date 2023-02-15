@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>제목없는 레이어</name>
+	<Style id="icon-102-highlight">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="icon-102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-102-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-102-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-22-nodesc-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-102-nodesc-highlight">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-102-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-102-nodesc-normal">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/102-pink.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-22-nodesc-highlight">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+			</Icon>
+			<hotSpot x="16" y="32" xunits="pixels" yunits="insetPixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-22-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-22-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="icon-102-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-102-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-102-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="076E239A762781019E87">
+		<name>송도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.644897,37.418163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCCF084FB2781019E8B">
+		<name>방아머리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.573486,37.287165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B90943AA32781019E8B">
+		<name>장경리해수욕장솔숲</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.452637,37.274053,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="228FF722782781019E8B">
+		<name>궁평리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.68335,37.129666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3E9FF72B2781019E8C">
+		<name>궁평리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.68335,37.129666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="156CD75DA22781019E8C">
+		<name>학암포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.20712,36.897811,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD09A98AB2781019E8D">
+		<name>신두리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.183472,36.835668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1107266F902781019E8D">
+		<name>신두리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.183472,36.835668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C142689222781019E8E">
+		<name>갈음이 해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.150513,36.690446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1204D9D84F2781019E8E">
+		<name>몽산포해수욕장매표소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.287842,36.672825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2B68C7A4972781019E8E">
+		<name>청포대해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.304321,36.63757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="076B275DF82781019E8F">
+		<name>삼봉해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.315308,36.571424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="184C70286C2781019E8F">
+		<name>샛별해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.33728,36.447799,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EECC13E942781019E90">
+		<name>대천해수욕장닷컴</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.589966,36.412442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D28E731542781019E90">
+		<name>대천해수욕장파리바게뜨</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.516838,36.305442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0076DF15F62781019E91">
+		<name>무창포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.536407,36.244273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F92D68D562781019E91">
+		<name>춘장대해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.524388,36.163293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="286DAF22522781019E91">
+		<name>고사포송림해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.493835,35.65618,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0003D3556A2781019E92">
+		<name>고슴도치해수욕장관리사무소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.285095,35.605952,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D5E2ED4B2781019E93">
+		<name>상록해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.47962,35.602062,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015F50E0142781019E94">
+		<name>변산비키니해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.511688,35.582501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="191F95E3A32781019E94">
+		<name>동호해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.48863,35.508367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023EBA4F682781019E95">
+		<name>구시포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.449348,35.437944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A690FA9E62781019E95">
+		<name>가마미해수욕장관리사무소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.408643,35.398351,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FCB8E5F32781019E96">
+		<name>안악해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.390633,35.140183,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D2AEFA0922781019E96">
+		<name>우전해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.136479,34.959634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C59A164D62781019E97">
+		<name>대광해수욕장매표소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.074426,35.100845,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1612E679502781019E97">
+		<name>우전해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.136479,34.959634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2ABEDCDAB72781019E97">
+		<name>분계해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.010066,34.8766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003AE7CAA02781019E98">
+		<name>백길해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.054382,34.866778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E2016AFAA2781019E98">
+		<name>추포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.078958,34.830687,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9AE1779C2781019E99">
+		<name>돌머리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.438818,35.085009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A88C93EA62781019E99">
+		<name>블랑코비치 (인공해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.260376,34.668229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B1843FE0F2781019E9A">
+		<name>해운대해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>125.945892,34.673876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="130DBB85942781019E9A">
+		<name>금갑해수욕장캠프</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.278229,34.395579,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E6D8373C12781019E9A">
+		<name>관매도. 관매해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.053009,34.245865,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C51C3699B2781019E9B">
+		<name>송평해변(송평해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.471863,34.435231,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1538810EA42781019E9B">
+		<name>예송리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.5625,34.142498,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D538F1AC22781019E9C">
+		<name>중리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.592712,34.162954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="12D9FCE98F2781019E9C">
+		<name>사구미해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.580897,34.320862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C41470CA12781019E9D">
+		<name>정도리구계등관리소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.70683,34.298006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="163BC87FCA2781019E9D">
+		<name>신지 명사십리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.828918,34.326426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="20C8111E592781019E9D">
+		<name>금일 해당화해변(금일해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.055511,34.329828,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03DED4D1CA2781019E9E">
+		<name>명교해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.078175,34.665302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1438EF66FA2781019E9E">
+		<name>발포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.356262,34.491844,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3E5BCC7B2781019E9F">
+		<name>사도 ·낭도 해수욕장(민박)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.553814,34.609268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1326B46D572781019E9F">
+		<name>방죽포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.78676,34.636011,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077AE6C9922781019EA0">
+		<name>만성리해수욕장관리사무소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.744646,34.777133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F8E68689A2781019EA0">
+		<name>배알도해수욕장횟집</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.759576,34.958335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB476C7CE2781019EA1">
+		<name>남일대해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.097579,34.927087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A45E1F9D72781019EA1">
+		<name>월포해수욕장 (남해군) (민박)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.898712,34.756281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2D935789E32781019EA1">
+		<name>송정해수욕장번영회</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.023502,34.722006,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05647C21B52781019EA2">
+		<name>상주해수욕장번영회</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.987976,34.721297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="13ECECFACE2781019EA2">
+		<name>덕동해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.242398,34.63689,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0829130FF72781019EA3">
+		<name>봉암몽돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.521948,34.760331,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0566E5607D2781019EA4">
+		<name>명사해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.603871,34.726724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1BE26ED65D2781019EA4">
+		<name>학동몽돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.640289,34.773204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D53CD21F2781019EA5">
+		<name>구조라해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.691101,34.809293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0294D1B4AC2781019EA6">
+		<name>덕포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.712467,34.912622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F122E6BBE2781019EA6">
+		<name>농소몽돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.702537,35.014996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DEDF89E572781019EA7">
+		<name>황포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.677908,35.028963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B5A4B9FEB2781019EA8">
+		<name>다대포해수욕장임해행정봉사실</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.968506,35.046862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D9C1A437E2781019EA8">
+		<name>부산 송도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.016571,35.060353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0538CB23DA2781019EA9">
+		<name>투썸플레이스송도해수욕장점</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.019318,35.078336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1C278C308E2781019EA9">
+		<name>광안리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.199905,35.178228,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00ED103D892781019EAA">
+		<name>해운대해수욕장우체국</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.161106,35.160058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="107360323F2781019EAA">
+		<name>송정해수욕장입구</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.200592,35.183911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0773EEED6A2781019EAB">
+		<name>일광 해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.233551,35.263562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="160DB664112781019EAB">
+		<name>포항북부해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.263862,35.318785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="243FE494872781019EAB">
+		<name>진하해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.346161,35.385691,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3FDFCBE2AD2781019EAB">
+		<name>일산 해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.430436,35.496301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02958FDA122781019EAC">
+		<name>주전해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.454651,35.566863,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="18E995D8032781019EAC">
+		<name>정자해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.450531,35.653949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="205CA1D3CA2781019EAC">
+		<name>봉길해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.470884,35.731638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0029DB71982781019EAD">
+		<name>감포오류해수욕장매점</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.508209,35.821154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1DC78915662781019EAD">
+		<name>도구해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.440914,35.991795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2008AFB0692781019EAD">
+		<name>송도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.375,36.046878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="059D50760E2781019EAE">
+		<name>포항북부해수욕장점</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.377105,36.055279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="17A08D05682781019EAE">
+		<name>칠포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.398346,36.132329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="25B489F6652781019EAE">
+		<name>월포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.37088,36.204391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05EB2AF6752781019EAF">
+		<name>화진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.375,36.238735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="14E4A6A29E2781019EAF">
+		<name>장사해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.376346,36.280311,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="23F8AD944E2781019EAF">
+		<name>강구오포3리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.379122,36.35837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C2621995A2781019EB0">
+		<name>대진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.436462,36.555096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="027DC7AB302781019EB1">
+		<name>영리해수욕장주차장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.409431,36.593198,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B398A16EE2781019EB1">
+		<name>봉평해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.412639,37.044116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011D73129E2781019EB2">
+		<name>후정해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.415736,37.069485,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1FBF2E593A2781019EB2">
+		<name>나곡해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.370699,37.125858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03CCFA087D2781019EB3">
+		<name>신남해변(신남 해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.326935,37.26573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E0634935C2781019EB3">
+		<name>용화해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.291424,37.272443,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081B52F3012781019EB4">
+		<name>부남해변(부남해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.249239,37.358851,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096DA3C1482781019EB5">
+		<name>맹방해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.233551,37.387617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F1646393F2781019EB5">
+		<name>삼척해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.167895,37.468678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2ED95343D52781019EB5">
+		<name>망상해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.081987,37.597848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CACFE9C22781019EB6">
+		<name>정동진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.033053,37.691116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1A477AD6712781019EB6">
+		<name>안목해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.947858,37.772225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9AD86F122781019EB7">
+		<name>강문해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.917694,37.795678,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F5C4BD3982781019EB7">
+		<name>사근진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.899841,37.811954,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D5DFD49D2781019EB8">
+		<name>사천진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.873749,37.842326,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="19865BD9E22781019EB8">
+		<name>연곡해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.852068,37.858251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F62022EBC2781019EB9">
+		<name>지경해수욕장관리소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.805084,37.917118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="13FDD3C2C42781019EB9">
+		<name>갯마을해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.777618,37.948529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="22136167E12781019EB9">
+		<name>동산포구해변(동산포구해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.757019,37.982092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC8D195BB2781019EBA">
+		<name>하조대해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.734868,38.020873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="19B745CFFF2781019EBA">
+		<name>낙산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.633657,38.117223,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB83D84ED2781019EBB">
+		<name>속초해수욕장</name>
+		<styleUrl>#icon-22-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.617029,38.138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1C7495FC8D2781019EBB">
+		<name>아야진해수욕장관리소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.552399,38.277001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="24495451C92781019EBB">
+		<name>백도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.546344,38.302667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E443186752781019EBC">
+		<name>삼포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.534546,38.313646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="17CD6763D22781019EBC">
+		<name>송지호해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.526306,38.329807,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00DA86F3782781019EBD">
+		<name>화진포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.450775,38.450362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1CB1C3D5B72781019EBD">
+		<name>함덕해수욕장관리소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.669962,33.542483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03A0059A5E2781019EBE">
+		<name>곽지어촌계</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.305304,33.4481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="107A9095C62781019EBE">
+		<name>협재해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.239051,33.392461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2AD22FBCAB2781019EBE">
+		<name>금능해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.235583,33.389784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA82EA7C82781019EBF">
+		<name>화순 금모래 해변(화순 해수욕장)</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.335743,33.239576,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="16908769582781019EBF">
+		<name>중문해수욕장주차장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.414798,33.244986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D38B3E782781019EC0">
+		<name>해수욕장가든</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.842357,33.325014,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="14FFCC3A302781019EC0">
+		<name>함덕해수욕장관리소</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.669962,33.542483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="24C53895DE2781019EC0">
+		<name>검멀레해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.96805,33.496457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011AE9D64C2781019EC1">
+		<name>하모해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.259561,33.21065,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1BA9B83D722781019EC1">
+		<name>표선해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.842618,33.325483,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A8C4A7022781019EC2">
+		<name>신양해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.92153,33.433232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B9E5708282781019EC2">
+		<name>검멀레해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.96805,33.496457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2B17E4E69C2781019EC2">
+		<name>하고수동해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.958694,33.513776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0422DFE3952781019EC3">
+		<name>하도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.901789,33.517855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1DF07D04722781019EC3">
+		<name>세화해수욕장</name>
+		<description>제주시 구좌읍</description>
+		<styleUrl>#icon-102</styleUrl>
+		<Point>
+			<coordinates>126.861251,33.52496,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A28972A662781019EC4">
+		<name>김녕해수욕장</name>
+		<description>제주시 구좌읍</description>
+		<styleUrl>#icon-102</styleUrl>
+		<Point>
+			<coordinates>126.759648,33.558288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D79032BFE2781019EC4">
+		<name>꽃지해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.335049,36.497907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C72FE1172781019EC5">
+		<name>장삼포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.361828,36.421144,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="171A0B7D662781019EC5">
+		<name>장동해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.368866,36.416724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A78AD54E42781019EC6">
+		<name>바람아래해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.376762,36.410784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="180745B07E2781019EC6">
+		<name>독산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.529884,36.222673,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E6E2FF1D2781019EC7">
+		<name>장안해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.538124,36.199404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="177533DF332781019EC7">
+		<name>모항갯벌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.531429,35.680725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="278202A2B12781019EC7">
+		<name>서망해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.138153,34.363914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016BDA05A32781019EC8">
+		<name>가계해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.355648,34.433815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B89EB3AB72781019EC8">
+		<name>땅끝송호해변</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.518555,34.314517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B830F9622781019EC9">
+		<name>수문해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.03517,34.634408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="151D3FDB562781019EC9">
+		<name>소록도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.133703,34.512498,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E77F7F69C2781019EC9">
+		<name>연소해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.116194,34.447052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BFECF1CEB2781019ECA">
+		<name>고라금해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.105637,34.468778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1311C308C62781019ECA">
+		<name>금장해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.163744,34.434452,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="099DC2C2122781019ECB">
+		<name>남성리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.406645,34.519499,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="12216896712781019ECB">
+		<name>염포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.492647,34.432045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C12DEC28A2781019ECC">
+		<name>남열해돋이해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.792625,34.628829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="10B9AA419A2781019ECC">
+		<name>배알도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.757092,34.794634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E7DE1647B2781019ECC">
+		<name>구미동해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.845669,34.785329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0717CB6E2781019ECD">
+		<name>상주해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>127.856398,34.741119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="19B4498C802781019ECD">
+		<name>설리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.026857,34.705917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066DA43AF72781019ECE">
+		<name>향도몽돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.048401,34.740484,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1938B429692781019ECE">
+		<name>모상개해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.076382,34.838041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019F5909542781019ECF">
+		<name>상족몽돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.153629,34.906346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="14D6F98BC82781019ECF">
+		<name>통영해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.440561,34.82395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="24F7DBA5B82781019ECF">
+		<name>죽림해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.584757,34.836914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2C8023E42781019ED0">
+		<name>덕원해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.708439,34.900152,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="150507DCBC2781019ED0">
+		<name>나사리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.345903,35.383032,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02DC2AC0F62781019ED1">
+		<name>신명해변</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.45817,35.613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="142CC539882781019ED1">
+		<name>정자해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.442291,35.627861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="29528D588C2781019ED1">
+		<name>나야해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.474134,35.700174,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0226CD8DE52781019ED2">
+		<name>나정해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.491901,35.784677,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="15220B23BD2781019ED2">
+		<name>감포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.499712,35.796026,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E15833EB2781019ED3">
+		<name>흥환해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.499712,36.023766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="12D25517562781019ED3">
+		<name>이가리간이해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.387703,36.35585,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D374D40FC2781019ED4">
+		<name>하저리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.428215,36.564186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1857EA466F2781019ED4">
+		<name>덕천해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.411993,36.597613,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9530ACB72781019ED5">
+		<name>구산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.468899,36.752433,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087BB41EB22781019ED6">
+		<name>양정해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.410877,37.022154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DAF30F9E2781019ED7">
+		<name>호산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.346247,37.169619,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0518D730062781019ED8">
+		<name>고포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.363327,37.14855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="15BACEEBDF2781019ED8">
+		<name>임원해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.304962,37.289009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="022A1197A62781019ED9">
+		<name>장호해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.314404,37.285868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="18A2B7ABAC2781019ED9">
+		<name>궁촌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.26754,37.324714,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="084E88FE872781019EDA">
+		<name>원평해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.27372,37.319595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01DEA36EB92781019EDB">
+		<name>문암해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.233122,37.389527,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="16E101C95F2781019EDB">
+		<name>상맹방해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.209948,37.403915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0541B291642781019EDC">
+		<name>하맹방해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.225998,37.393823,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F5FE46622781019EDE">
+		<name>추암해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.159393,37.477242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08AAE44B112781019EDF">
+		<name>증산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.162054,37.473973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03ABDC4F722781019EE0">
+		<name>한섬해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.122572,37.519938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AF1D2EF322781019EE1">
+		<name>어달해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.11931,37.567236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C0102F322781019EE2">
+		<name>노봉해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.100256,37.586486,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA2F8CCC22781019EE4">
+		<name>옥계해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.05056,37.628644,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F077D9ACF2781019EE5">
+		<name>먹진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.044724,37.636529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F5D165672781019EE6">
+		<name>동명해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>129.017344,37.704263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B35E0C2832781019EE7">
+		<name>염전해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.9849,37.740992,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3F29B6F42781019EE8">
+		<name>순포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.890915,37.819616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1531E25CC72781019EE8">
+		<name>사천해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.878126,37.830124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032E112B872781019EE9">
+		<name>향호해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.81547,37.914003,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1D94DD45AA2781019EE9">
+		<name>소돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.825512,37.906215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0405915C872781019EEA">
+		<name>인구1리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.762169,37.968019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C17EEAF92781019EEB">
+		<name>북분리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.749809,37.99109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F531B8E062781019EEB">
+		<name>잔교리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.726549,38.021726,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052C4782CD2781019EEC">
+		<name>동호해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.684235,38.058702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1AE3BCAE952781019EEC">
+		<name>오산해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.66415,38.089445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2C8EE685552781019EEC">
+		<name>정암해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.609734,38.182474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7CB1747C2781019EED">
+		<name>외옹치해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.609734,38.182474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1ED5A5986F2781019EED">
+		<name>청간리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.55669,38.268174,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B677AD83B2781019EEE">
+		<name>ㅈ작도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.542871,38.307719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F4A9585A92781019EEE">
+		<name>자작도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.542356,38.308797,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2E429829DE2781019EEE">
+		<name>가진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.438158,38.477984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020067484E2781019EEF">
+		<name>거진1리백섬해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.465195,38.446598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="169FD4564C2781019EEF">
+		<name>거진1리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.455582,38.441153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2EEEE974EC2781019EEF">
+		<name>반암해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.463306,38.422798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066BA030872781019EF0">
+		<name>명파해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.405113,38.542862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1298E6A5572781019EF0">
+		<name>마차진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.419962,38.510162,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2AC82A53962781019EF0">
+		<name>대진해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>128.424339,38.50499,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C073C6CBB2781019EF1">
+		<name>제부도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.617174,37.165105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1333866F6F2781019EF1">
+		<name>용담리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.475983,37.240715,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="257DA439752781019EF1">
+		<name>장골해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.318913,37.249188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01333CB55B2781019EF2">
+		<name>능동자갈마당해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.10116,37.264627,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="12CE5F3D522781019EF2">
+		<name>이개해변</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.1409,37.238324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="22A063A3AD2781019EF2">
+		<name>서포리해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.115322,37.221785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083E5E443A2781019EF3">
+		<name>작은풀안해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.254368,37.17085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1B23BB70DA2781019EF3">
+		<name>큰풀안해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.262822,37.168353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B5269FE52781019EF4">
+		<name>이일레해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.301575,37.164147,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1F758F4FA52781019EF4">
+		<name>난지도해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.420879,37.046683,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="252DFC0D852781019EF4">
+		<name>벌천포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.338654,36.964158,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="075399F0F92781019EF5">
+		<name>꾸지나물골해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.290932,36.936446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E633B6EBE2781019EF5">
+		<name>사목해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.291962,36.919705,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2D2E760B652781019EF5">
+		<name>음포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.282692,36.904058,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A76C366D42781019EF6">
+		<name>구례포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.192741,36.886486,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="198A15FEA92781019EF6">
+		<name>어은돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.126823,36.747413,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08559D08432781019EF7">
+		<name>어은돌해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.129227,36.748788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1E080B507C2781019EF7">
+		<name>통개해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.14502,36.724576,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="027883D3062781019EF8">
+		<name>원안해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.236,36.701733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1FF0FE92E02781019EF8">
+		<name>기지포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.322174,36.558739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B9607AE2F2781019EF9">
+		<name>안면해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.33007,36.549087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="125B201CE72781019EF9">
+		<name>방포해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.331444,36.512396,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2B02D1E3C32781019EF9">
+		<name>비인해수욕장</name>
+		<styleUrl>#icon-102-nodesc</styleUrl>
+		<Point>
+			<coordinates>126.590996,36.127199,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
